@@ -1,0 +1,18 @@
+{
+    "player": {
+        "name": "Alhaitham",
+        "health": 75.38670870240207,
+        "damage": 15,
+        "armor": 10,
+        "resist": 0.1155590585335047
+    },
+    "enemy": {
+        "name": "Hu Tao",
+        "health": 44.192120675121444,
+        "damage": 13,
+        "armor": 5,
+        "resist": 0.21921206751214461
+    },
+    "turn": 1,
+    "history": []
+}
